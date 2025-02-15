@@ -22,7 +22,7 @@ const Certs = () => {
         initial="hidden"
         whileInView={'visible'}
         transition={{duration:0.5}}>
-      <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science" target="">
+     
       <img src={image} alt="" className="w-[400px] cursor-pointer rounded-xl shadow-xl shadow-pink-500 transition-all duration-300 hover:-translate-y-5
           hover:scale-105 hover:shadow-2xl hover:shadow-pink-500 md:w-[850px] " />
       </a>
