@@ -1,0 +1,10 @@
+
+@media(max-width: 600px){
+    iframe {
+        width: 0;
+        height: 0;
+    }
+}
+.abt {
+    color: rgb(221, 44, 126);
+}
